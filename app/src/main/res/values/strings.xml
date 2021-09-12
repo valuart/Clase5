@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase5</string>
+    <string name="editText1">Ingrese Numero</string>
+    <string name="editText2">Ingrese Otro Numero</string>
+    <string name="editText3">ETResultado</string>
+    <string name="textView">Lo ingresado no es un numero</string>
+
+</resources>
